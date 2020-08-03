@@ -10,6 +10,7 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
     <link rel="stylesheet" href="shared.css">
     <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="about/about.css">
 </head>
 
 <body>
@@ -28,7 +29,7 @@
                     <a href="customers/index.html">Customers</a>
                 </li>
                 <li class="main-nav__item main-nav__item--cta">
-                    <a href="start-hosting/index.html">Start Hosting</a>
+                    <a href="about/index.html">Start Hosting</a>
                 </li>
             </ul>
         </nav>
